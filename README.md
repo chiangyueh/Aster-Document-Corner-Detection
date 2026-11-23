@@ -46,7 +46,7 @@ python -m aster export --model weights/Aster.pt --out export/Aster.onnx --mnn ex
 
 <p align="center">
   <a href="https://www.camonster.online/">
-    <img src="examples/document-after-small.webp" width="320">
+    <img src="examples/doocument-after-small.webp" width="320">
   </a>
 </p>
 
