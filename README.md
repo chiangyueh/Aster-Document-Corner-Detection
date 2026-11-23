@@ -38,9 +38,10 @@ python -m aster export --model weights/Aster.pt --out export/Aster.onnx --mnn ex
 ![原始照片](examples/document_original.png)
 
 模型推論後的四角標記：
+
 ![四角標記](examples/document_marked.png)
 
 ## Camonster 文件攤平效果
 
 [Aster 模型應用於 Camonster 的實際文件攤平效果](https://www.camonster.online/)（縮小圖）。
-![文件攤平效果](examples/document-after-small.webp)
+![文件攤平效果](examples/doocument-after-small.webp)
