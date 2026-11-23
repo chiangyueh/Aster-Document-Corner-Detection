@@ -34,11 +34,13 @@ python -m aster evaluate --model weights/Aster.pt --data data/real_test --vis ex
 python -m aster export --model weights/Aster.pt --out export/Aster.onnx --mnn export/Aster.mnn
 ```
 
-## 四角標記示範
+原始照片：
+![原始照片](examples/document_original.png)
 
-`examples/document_original.png` 為原始照片，`examples/document_marked.png` 為模型推論後的四角標記展示。
+模型推論後的四角標記：
+![四角標記](examples/document_marked.png)
 
 ## Camonster 文件攤平效果
-https://www.camonster.online/
-Aster 模型應用於 Camonster 的實際文件攤平效果（縮小圖）。
-`examples/doocument-after-small.webp`
+
+[Aster 模型應用於 Camonster 的實際文件攤平效果](https://www.camonster.online/)（縮小圖）。
+![文件攤平效果](examples/document-after-small.webp)
