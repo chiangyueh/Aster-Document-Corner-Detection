@@ -1,0 +1,15 @@
+base: aster.yaml
+name: smoke
+assets:
+  backgrounds: 300
+data:
+  mode: full
+  train_images: 640
+  val_images: 128
+  round_images: 20000
+  loader_workers: 2
+train:
+  epochs: 2
+  epochs_per_round: 3
+  threads: 4
+  log_every: 10

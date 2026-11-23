@@ -1,0 +1,8 @@
+/data/
+/runs/
+/export/
+/models/
+/.venv/
+__pycache__/
+*.pyc
+/preview*.jpg

@@ -1,0 +1,51 @@
+{
+  "image": "document_original.png",
+  "corner_order": [
+    "top_left",
+    "top_right",
+    "bottom_right",
+    "bottom_left"
+  ],
+  "corners_normalized": [
+    [
+      0.22260791063308716,
+      0.08114241063594818
+    ],
+    [
+      0.9202408120036125,
+      0.15032805502414703
+    ],
+    [
+      0.9254391938447952,
+      0.9623717665672302
+    ],
+    [
+      0.011209249496459961,
+      0.8684467673301697
+    ]
+  ],
+  "corners_px": [
+    [
+      80,
+      39
+    ],
+    [
+      331,
+      72
+    ],
+    [
+      333,
+      462
+    ],
+    [
+      4,
+      417
+    ]
+  ],
+  "confidence": 0.9999958276748657,
+  "metadata": {
+    "model": "weights/Aster.pt",
+    "views": 4,
+    "prediction_not_ground_truth": true
+  }
+}
