@@ -42,17 +42,10 @@ python -m aster export --model weights/Aster.pt --out export/Aster.onnx --mnn ex
   <img src="examples/document_marked.png" width="320">
 </p>
 
-<h2>Camonster 文件攤平效果</h2>
-
-<p>
-  <a href="https://www.camonster.online/">https://www.camonster.online/</a>
-</p>
-
-<p>Aster 模型應用於 Camonster 的實際文件攤平效果（縮小圖）。</p>
+<h2>Aster 模型應用於 Camonster 文件攤平效果 <a href="https://www.camonster.online/scan/">https://www.camonster.online/scan/</a></h2>
 
 <p align="center">
-  <a href="https://www.camonster.online/">
-    <img src="examples/doocument-after-small.webp" width="320">
-  </a>
+  <img src="examples/doocument-after-small.webp" width="320">
 </p>
+
 
